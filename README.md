@@ -1,7 +1,7 @@
 # aiml-memorandum
 
 
-## 
+## links
 
 - [piqcy : Weekly Machine Learning](https://www.getrevue.co/profile/icoxfog417)
 - [Weekly 人工無脳](http://ysdyt.hatenablog.jp/)
