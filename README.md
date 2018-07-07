@@ -1,5 +1,11 @@
 # aiml-memorandum
 
+
+##
+
+- [piqcy : Weekly Machine Learning](https://www.getrevue.co/profile/icoxfog417)
+
+
 ## twitter
 
 - [twitter:moroka](https://twitter.com/morioka)
