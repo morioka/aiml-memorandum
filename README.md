@@ -27,8 +27,8 @@
 - [aiml20180705](https://twitter.com/i/moments/1014624107147636736)
 - [aiml20180704](https://twitter.com/i/moments/1014269446049841152)
 - [aiml20180703](https://twitter.com/i/moments/1013869286991859718)
-- [aiml20180702]https://twitter.com/i/moments/1013560051410219008)
-- [aiml20180701]https://twitter.com/i/moments/1013180244679802880)
+- [aiml20180702](https://twitter.com/i/moments/1013560051410219008)
+- [aiml20180701](https://twitter.com/i/moments/1013180244679802880)
 
 ### 2018-06
 
