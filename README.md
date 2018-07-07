@@ -1,19 +1,24 @@
 # aiml-memorandum
 
 
-##
+## 
 
 - [piqcy : Weekly Machine Learning](https://www.getrevue.co/profile/icoxfog417)
+- [Weekly 人工無脳](http://ysdyt.hatenablog.jp/)
+
+その他arxivまとめサイト
+会議まとめサイト・ページなど
 
 
-## twitter
+
+## my twitter
 
 - [twitter:moroka](https://twitter.com/morioka)
 - [twitter:morioka/nlp](https://twitter.com/morioka/lists/nlp)
 - [twitter:morioka/ai_ml](https://twitter.com/morioka/lists/ai-ml)
 - https://twilog.org/morioka/
 
-## twitter moments
+## my twitter moments
 
 ### 2018-07
 
