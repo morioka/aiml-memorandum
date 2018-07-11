@@ -21,7 +21,10 @@
 ## my twitter moments
 
 ### 2018-07
-
+- [aiml20180711](https://twitter.com/i/moments/1016834401651453952)
+- [aiml20180710](https://twitter.com/i/moments/1016462262914068480)
+- [aiml20180709](https://twitter.com/i/moments/1016093006842060801)
+- [aiml20180708](https://twitter.com/i/moments/1015748345728360448)
 - [aiml20180707](https://twitter.com/i/moments/1015335000181313536)
 - [aiml20180706](https://twitter.com/i/moments/1015015769380286464)
 - [aiml20180705](https://twitter.com/i/moments/1014624107147636736)
