@@ -22,6 +22,18 @@
 
 ### 2018-08
 
+- [aiml20180819](https://twitter.com/i/moments/1030946624233598979)
+- [aiml20180818](https://twitter.com/i/moments/1030576025392955392)
+- [aiml20180817](https://twitter.com/i/moments/1030209487343255552)
+- [aiml20180816](https://twitter.com/i/moments/1029839944297017344)
+- [aiml20180815](https://twitter.com/i/moments/1029488569331511296)
+- [aiml20180814](https://twitter.com/i/moments/1029143190182350848)
+- [aiml20180813](https://twitter.com/i/moments/1028762611825893377)
+- [aiml20180812](https://twitter.com/i/moments/1028425061517021184)
+- [aiml20180811](https://twitter.com/i/moments/1028047373363081216)
+- [aiml20180810](https://twitter.com/i/moments/1027728147687473153)
+- [aiml20180809](https://twitter.com/i/moments/1027341815454683136)
+- [aiml20180808](https://twitter.com/i/moments/1026956179589672960)
 - [aiml20180807](https://twitter.com/i/moments/1026579623855833088)
 - [aiml20180806](https://twitter.com/i/moments/1026229986628272128)
 - [aiml20180805](https://twitter.com/i/moments/1025882767605694464)
